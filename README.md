@@ -1,10 +1,10 @@
 # Curriculo-Portifolio
 
 ## Summary
-* [Sobre Mim](https://github.com/Renato-Chaves/Curriculo-Portifolio/edit/main/README.md#sobre-mim)
-* [Status do Github](https://github.com/Renato-Chaves/Curriculo-Portifolio/edit/main/README.md#github-stats)
-* [Projetos Principais](https://github.com/Renato-Chaves/Curriculo-Portifolio/edit/main/README.md#featured-projects)
-* [Certificados](https://github.com/Renato-Chaves/Curriculo-Portifolio/edit/main/README.md#certificados)
+* [Sobre Mim](#sobre-mim)
+* [Status do Github](#github-stats)
+* [Projetos Principais](#featured-projects)
+* [Certificados](#certificados)
 
 
 ## Sobre Mim
