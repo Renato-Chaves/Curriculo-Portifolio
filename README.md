@@ -8,7 +8,7 @@
 
 
 ## Sobre Mim
-Sou desenvolvendor Full Stack, voltado para o back-end, estou cursando Ciências da Computação na  Unip, gosto de desenvolver projetos e jogos no tempo livre, focado em melhorar minhas habilidades de programação e de desenvolvimento.
+Sou desenvolvendor de Software Full Stack, voltado para o back-end, estou cursando Ciências da Computação na  Unip, gosto de desenvolver projetos e jogos no tempo livre, focado em melhorar minhas habilidades de programação e de desenvolvimento.
 
 ## Conecte-se Comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/rchavesnunes)
@@ -18,6 +18,7 @@ Sou desenvolvendor Full Stack, voltado para o back-end, estou cursando Ciências
 
 ## Skills:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySql](https://shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,9 +34,9 @@ Sou desenvolvendor Full Stack, voltado para o back-end, estou cursando Ciências
 ## Featured projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renato-Chaves&repo=Sbeam&theme=radical)](https://github.com/Renato-Chaves/Sbeam)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renato-Chaves&repo=BeamMaps&theme=radical)](https://github.com/Renato-Chaves/BeamMaps)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renato-Chaves&repo=ReCalculator&theme=radical)](https://github.com/Renato-Chaves/ReCalculator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renato-Chaves&repo=DIO-Pokedex&theme=radical)](https://github.com/Renato-Chaves/DIO-Pokedex)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renato-Chaves&repo=MiniAES&theme=radical)](https://github.com/Renato-Chaves/MiniAES)
 
 
 # Certificados
