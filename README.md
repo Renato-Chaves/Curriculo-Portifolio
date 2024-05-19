@@ -28,7 +28,7 @@ Sou desenvolvendor de Software Full Stack, voltado para o back-end, estou cursan
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Chaves&progress=false&theme=radical&text_color=07E)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Chaves&progress=false&theme=radical&text_color=07E&exclude_repo=Restoration-Frontier)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renato-Chaves&theme=radical&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Featured projects
